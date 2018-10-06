@@ -1,7 +1,8 @@
 
-<a href="https://wrappixel.com/templates/xtremeadmin/"><img src="https://wrappixel.com/wp-content/uploads/edd/2018/07/xtreme-admin-bts-wp-preview.jpg" /></a>
+<a href="https://wrappixel.com/templates/xtremeadmin/"><img src="https://wrappixel.com/wp-content/uploads/edd/2018/07/xtreme-admin-bts-wp-preview.jpg"/></a>
 <h4>Check this Repo Live Demo</h4>
 <h3><a href="https://wrappixel.com/demos/free-admin-templates/xtreme-admin-lite/html/ltr/"></a></h3>
+
 # README #
 
 This README would normally document whatever steps are necessary to get your application up and running. <br/>
