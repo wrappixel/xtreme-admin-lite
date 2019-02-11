@@ -67,8 +67,7 @@
             }
         }
         /*Sidebar position*/
-        &[data-sidebar-position="fixed"][data-sidebartype="full"],
-        &[data-sidebar-position="fixed"][data-sidebartype="overlay"] {
+        &[data-sidebar-position="fixed"][data-sidebartype="full"] {
             .topbar .top-navbar .navbar-collapse {
                 margin-left: $sidebar-width-full;
             }
@@ -92,6 +91,9 @@
                         display: block;
                     }
                 }
+            }
+            .left-sidebar .upgrade-btn {
+                display: none;
             }
         }
         /*Fixed sidebar with minisidebar*/
