@@ -1,0 +1,116 @@
+/*
+Template Name: Admin Template
+Author: Niravjoshi / Wrappixel
+File: scss
+*/
+
+
+
+// Tooltip for the chartist chart charts
+.chartist-tooltip {
+    position: absolute;
+    display: inline-block;
+    opacity: 0;
+    border-radius: $border-radius;
+    padding: 10px 20px;
+    background: $info;
+    color: $white;
+    ext-align: center;
+    pointer-events: none;
+    z-index: 1;
+    -webkit-transition: opacity .2s linear;
+    -moz-transition: opacity .2s linear;
+    -o-transition: opacity .2s linear;
+    transition: opacity .2s linear;
+}
+
+.chartist-tooltip:before {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    width: 0;
+    height: 0;
+    margin-left: -5px;
+    border: 5px solid transparent;
+    border-top-color: $info;
+}
+
+.chartist-tooltip.tooltip-show {
+    opacity: 1;
+}
+
+
+
+// Custom select
+.custom-select {
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    -o-appearance: none;
+    background-size: auto;
+}
+
+
+//material-icon
+.m-icon {
+    width: 33%;
+    display: inline-block;
+}
+
+@include media-breakpoint-down(sm) {
+    .m-icon {
+        width: 100%;
+    }
+}
+
+//font-awesome icon
+.m-icon {
+    cursor: pointer;
+    padding: 13px 15px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    &:hover {
+        background-color: $gray-100;
+    }
+}
+
+.error-box {
+    height: 100%;
+    position: fixed;
+    background-color: $white;
+    width: 100%;
+    .error-body {
+        padding-top: 5%;
+    }
+    .error-title {
+        font-size: 210px;
+        font-weight: 900;
+        text-shadow: 4px 4px 0 #fff, 6px 6px 0 $dark;
+        line-height: 210px;
+    }
+}
+
+.campaign{
+    position: relative;
+    height: 250px;
+    .ct-series-a .ct-area { 
+        fill-opacity:0.2;
+        fill: url(#gradient); 
+    }
+    .ct-series-a .ct-line, .ct-series-a .ct-point{
+        stroke: $cyan;   
+        stroke-width:2px;  
+    }
+    .ct-series-b .ct-area{
+        fill: $primary;
+        fill-opacity:0.1; 
+    }
+    .ct-series-b .ct-line, .ct-series-b .ct-point {
+        stroke: $primary;
+        stroke-width:2px; 
+    }
+    .ct-series-a .ct-point, .ct-series-b .ct-point{
+        stroke-width:6px;
+    } 
+}
