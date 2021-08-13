@@ -1,7 +1,7 @@
 <!-- # xtreme-admin-lite-- >
 <!-- Heading of Template -->
 <h1>
-  <a href="https://www.wrappixel.com/demos/admin-templates/ampleadmin/ample-admin-lite/dashboard.html">Xtreme Bootstrap Admin Lite</a>
+  <a href="https://www.wrappixel.com/templates/xtreme-admin-lite/">Xtreme Bootstrap Admin Lite</a>
 </h1>
 
 <!-- Main image of Template -->
@@ -65,7 +65,7 @@
 <h2>Resources</h2>
 <ul>
 <li>  
-  Live Demo: <a href="https://www.wrappixel.com/demos/free-admin-templates/xtreme-admin-lite/xtreme-html/ltr/" rel="nofollow">https://www.wrappixel.com/demos/free-admin-templates/xtreme-admin-lite/xtreme-html/ltr/</a>
+  Live Demo: <a href="https://demos.wrappixel.com/free-admin-templates/bootstrap/xtreme-bootstrap-free/landingpage/index.html" rel="nofollow">https://demos.wrappixel.com/free-admin-templates/bootstrap/xtreme-bootstrap-free/landingpage/index.html</a>
 </li>
 <li>
     Download Page: <a href="https://www.wrappixel.com/templates/xtreme-admin-lite/" rel="nofollow">
@@ -80,7 +80,7 @@
 <h2>Licensing</h2>
 <ul>
   <li>
-    <p>Copyright 2020 Wrappixel (<a href="https://www.wrappixel.com/" rel="nofollow">https://www.wrappixel.com/</a>)</p>
+    <p>Copyright 2021 Wrappixel (<a href="https://www.wrappixel.com/" rel="nofollow">https://www.wrappixel.com/</a>)</p>
   </li>
   <li>
     <p>Licensed under MIT (<a href="https://www.wrappixel.com/license/">https://www.wrappixel.com/license/</a>)</p>
@@ -95,7 +95,7 @@
 </a>
 <p>
    Checkout our premium version of Xtreme Bootstrap Admin for lots more features and ready to use page templates.<br>
-   <a href="https://www.wrappixel.com/demos/admin-templates/xtreme-admin/html/ltr/index.html">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/xtremeadmin/">Download</a>
+   <a href="https://demos.wrappixel.com/premium-admin-templates/bootstrap/xtreme-bootstrap/package/html/ltr/index.html">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/xtremeadmin/">Download</a>
 </p>
 
 <!-- Useful Links of Template -->
