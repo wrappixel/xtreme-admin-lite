@@ -1,117 +1,214 @@
-<!-- # xtreme-admin-lite-- >
-<!-- Heading of Template -->
-<h1>
-  <a href="https://www.wrappixel.com/templates/xtreme-admin-lite/">Xtreme Bootstrap Admin Lite</a>
-</h1>
+# <a href="https://demos.wrappixel.com/free-admin-templates/bootstrap/xtreme-bootstrap-free/html/index.html">Xtreme Free</a>
+Xtreme Bootstrap Admin Lite
 
 <!-- Main image of Template -->
-<a target="_blank" href="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-bootstrap-admin-lite-y.jpg">
+<a target="_blank" href="https://www.wrappixel.com/templates/xtremeadmin/">
   <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-bootstrap-admin-lite-y.jpg" />
 </a>
 
-<!-- Description of Template -->
+
+# Compare with Premium Version 🌓
+
+<table>
+<thead>
+<tr>
+<th>Xtreme Free Bootstrap Admin Version</th>
+<th>Xtreme Bootstrap Admin Version</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>
+    <a href="https://demos.wrappixel.com/free-admin-templates/bootstrap/xtreme-bootstrap-free/html/index.html">Live Preview</a>
+  </td>
+  <td>
+  <a href="https://bootstrapdemos.wrappixel.com/xtreme/dist/main/index.html">Live Preview</a>
+  </td>
+</tr>
+<tr>
+  <td>
+      <a href="https://www.wrappixel.com/templates/xtremeadmin/">Download Now</a>
+  </td>
+  <td>
+    <a href="https://www.wrappixel.com/templates/xtremeadmin/?ref=33">Purchase Now</a>
+  </td>
+</tr>
+<tr>
+  <td>
+  1 Basic Dashboard
+  </td>
+  <td>
+  10+ Stunning Dashboards
+  </td>
+</tr>
+<tr>
+  <td>
+  -
+  </td>
+  <td>
+  Dashboard Figma Files
+  </td>
+</tr>
+<tr>
+  <td>
+  Bootstrap 5 Version
+  </td>
+  <td>
+  Bootstrap 5 Version
+  </td>
+</tr>
+<tr>
+  <td>
+  Fully Responsive Pages
+  </td>
+  <td>
+  Fully Responsive Pages
+  </td>
+</tr>
+<tr>
+  <td>
+  6+ Pages Template
+  </td>
+  <td>
+  500+ Page Templates
+  </td>
+</tr>
+<tr>
+  <td>
+  10+ UI Components
+  </td>
+  <td>
+  500+ UI Components
+  </td>
+</tr>
+<tr>
+  <td>
+  No Documentation
+  </td>
+  <td>
+  Documentation Provided
+  </td>
+</tr>
+<tr>
+  <td>
+  Easy To Customize
+  </td>
+  <td>
+  Easy To Customize
+  </td>
+</tr>
+<tr>
+  <td>
+  -
+  </td>
+  <td>
+  Right-to-Left(RTL) Verion
+  </td>
+</tr>
+<tr>
+  <td>
+  -
+  </td>
+  <td>
+  100+ Integrated Plugins
+  </td>
+</tr>
+<tr>
+  <td>
+  -
+  </td>
+  <td>
+  12+ Ready to Use App
+  </td>
+</tr>
+<tr>
+  <td>
+  -
+  </td>
+  <td>
+  1 Year Premium Support
+  </td>
+</tr>
+</tbody>
+</table>
+
+# Upgrade to Premium version
+
+<a target="_blank" href="https://www.wrappixel.com/templates/xtremeadmin/?ref=33">
+  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-bootstrap-admin-y.jpg" alt="">
+</a>
 <p>
- To enhance user experience and improve the aesthetic design, Xtreme Admin Lite is a perfect choice. When you download this beautiful template it provides customization and various configuration options. To give a stylish touch to your project this <a href="https://www.wrappixel.com/templates/category/bootstrap-admin-templates/">bootstrap 5 template admin panel</a> available for free does it all at your fingertips.
+  Checkout our premium version of Xtreme Bootstrap Dashboard Template for lots more features and ready to use page templates.<br>
+  <a href="https://bootstrapdemos.wrappixel.com/xtreme/dist/main/index.html">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/xtremeadmin/?ref=33">Download</a>
 </p>
-<p>
-  It allows building high-performing web-applications and other projects in a couple of days giving a seamless experience. You also get a variety of widgets, elements, page templates, icons and much more when you download it. The best part of this free admin theme bootstrap 5 is its full responsiveness and savior when you are low on budget. For all commercial projects, you can opt-in pro version of this template.
- </p>
-
-<!-- <h4><a href="https://wrappixel.com/demos/free-admin-templates/xtreme-admin-lite/xtreme-html/ltr/index.html">Free Version Demo Link</a></h4> -->
-
-<!-- ## Pro Version -->
-
-<!-- <a href="https://www.wrappixel.com/templates/xtremeadmin/"><img src="https://www.wrappixel.com/wp-content/uploads/2019/01/xtreme-admin-bootstrap-nw-1.jpg"/></a><br/>
-<h4><a href="https://www.wrappixel.com/demos/admin-templates/xtreme-admin/html/ltr/index.html">Demo</a></h4> -->
 
 <!-- Versions of Template -->
-<h2><a id="user-content-versions" class="anchor" aria-hidden="true" href="#versions"></a>Versions</h2>
+# Versions
 <table>
 <thead>
 <tr>
 <th>Bootstrap</th>
-<th>React</th>
-<th>Vue</th>
 <th>Angular</th>
+<th>React</th>
+<th>Next Js</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-  <a href="https://www.wrappixel.com/templates/xtremeadmin/" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-bootstrap-admin-y.jpg" alt="Xtreme Template  Bootstrap" style="max-width:150px;">
+  <a href="https://www.wrappixel.com/templates/xtremeadmin/" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-bootstrap-admin-y.jpg" alt="" style="max-width:150px;">
+  </a>
+</td>
+<td>
+  <a href="https://www.wrappixel.com/templates/xtreme-angular-admin/" rel="nofollow" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-angular-admin-y.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
 <td>
   <a href="https://www.wrappixel.com/templates/xtreme-react-redux-admin/" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-react-admin-template-y.jpg" alt="Xtreme Template  React" style="max-width:150px;">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-react-admin-template-y.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
 <td>
-  <a href="https://www.wrappixel.com/templates/xtreme-vuesax-admin-pro/" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-vuesax-admin-y.jpg" alt="Xtreme Template  Vue" style="max-width:150px;">
+  <a href="https://www.wrappixel.com/templates/xtreme-nextjs-admin-dashboard/" rel="nofollow" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2022/02/xtreme-nextjs-image.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
-  <td>
-  <a href="https://www.wrappixel.com/templates/xtreme-angular-admin/" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-angular-admin-y.jpg" alt="Xtreme Template  Angular" style="max-width:150px;">
-  </a>
 </td>
+  
 </tr>
 </tbody>
 </table>
 
-<!-- Resources of Template -->
-<h2>Resources</h2>
-<ul>
-<li>  
-  Live Demo: <a href="https://demos.wrappixel.com/free-admin-templates/bootstrap/xtreme-bootstrap-free/landingpage/index.html" rel="nofollow">https://demos.wrappixel.com/free-admin-templates/bootstrap/xtreme-bootstrap-free/landingpage/index.html</a>
-</li>
-<li>
-    Download Page: <a href="https://www.wrappixel.com/templates/xtreme-admin-lite/" rel="nofollow">
-  https://www.wrappixel.com/templates/xtreme-admin-lite/</a>
-</li>
-<li>
-    <a href="https://www.wrappixel.com/templates/wrapkit/#demos" rel="nofollow">WrapKit </a>Complete UI Kit - For Website Projects
-</li>
-</ul>
-
-<!-- Licensing of Template -->
-<h2>Licensing</h2>
-<ul>
-  <li>
-    <p>Copyright 2021 Wrappixel (<a href="https://www.wrappixel.com/" rel="nofollow">https://www.wrappixel.com/</a>)</p>
-  </li>
-  <li>
-    <p>Licensed under MIT (<a href="https://www.wrappixel.com/license/">https://www.wrappixel.com/license/</a>)</p>
-  </li>
-</ul>
 
 
-<!-- Upgrade to Premium version of Template -->
-<h2>Upgrade to Premium version</h2>
-<a target="_blank" href="https://www.wrappixel.com/templates/xtremeadmin/">
-  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-bootstrap-admin-y.jpg" />
-</a>
-<p>
-   Checkout our premium version of Xtreme Bootstrap Admin for lots more features and ready to use page templates.<br>
-   <a href="https://demos.wrappixel.com/premium-admin-templates/bootstrap/xtreme-bootstrap/package/html/ltr/index.html">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/xtremeadmin/">Download</a>
-</p>
+
 
 <!-- Useful Links of Template -->
-<h2>Useful Links</h2>
-<ul>
-<li><a href="https://www.wrappixel.com/templates/category/admin-template/">Admin Panel Template</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/">Free Bootstrap Themes</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/bootstrap-admin-templates/">Bootstrap Admin Template</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/angular-templates/">Angular JS Dashboard</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/react-templates/">React Website Templates</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/vuejs-templates/">Vue JS Templates</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/free-templates/">Free Themes</a> from WrapPixel</li>
-</ul>
+# Useful Links
+- <p><a href="https://www.wrappixel.com/">Admin Theme</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/materialpro/">Bootstrap Themes</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/materialpro-lite/">Free Bootstrap Admin Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/materialpro-react-redux-admin/">React Bootstrap Template</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/materialpro-vuetify-admin/">Vuejs Templates</a> from Wrappixel</p>
 
-<!-- Social Media of Wrappixel -->
-<h2>Social Media</h2>
-<p>Facebook: <a href="https://www.facebook.com/wrappixel">https://www.facebook.com/wrappixel</a></p>
-<p>Twitter: <a href="https://twitter.com/wrappixel">https://twitter.com/wrappixel</a></p>
-<p>Medium: <a href="https://medium.com/wrappixel">https://medium.com/wrappixel</a></p>
+
+<!-- Licensing of Template -->
+# Licensing
+- <p>Copyright 2024 Wrappixel <a href="https://www.wrappixel.com/">https://wrappixel.com/</a></p>
+- <p>Licensed under MIT <a href="https://www.wrappixel.com/license/">https://wrappixel.com/license/</a></p>
+
+
+<!-- Social Media of Adminmart -->
+# Social Media 👭🏼
+- <p>Facebook: <a href="https://www.facebook.com/wrappixel">https://www.facebook.com/wrappixel</a></p>
+- <p>Linkedin: <a href="https://www.linkedin.com/company/wrappixel/">https://www.linkedin.com/company/wrappixel/</a></p>
+- <p>Github: <a href="https://github.com/wrappixel">https://github.com/wrappixel</a></p>
+- <p>Twitter: <a href="https://twitter.com/wrappixel">https://twitter.com/wrappixel</a></p>
+- <p>Medium: <a href="https://medium.com/wrappixel">https://medium.com/wrappixel</a></p>
+- <p>Discord: <a href="https://discord.com/invite/eMzE8F6Wqs">https://discord.com/invite/eMzE8F6Wqs</a></p>
+- <p>Youtube: <a href="https://www.youtube.com/channel/UCdFDlrhIchtxF8EmxejUPGQ">https://www.youtube.com/channel/UCdFDlrhIchtxF8EmxejUPGQ</a></p>
+
+
+
