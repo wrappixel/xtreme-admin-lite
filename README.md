@@ -3,7 +3,7 @@ Xtreme Bootstrap Admin Lite
 
 <!-- Main image of Template -->
 <a target="_blank" href="https://www.wrappixel.com/templates/xtremeadmin/">
-  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-bootstrap-admin-lite-y.jpg" />
+  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/xtreme-free-bootstrap5-admin-wpn.jpg" />
 </a>
 
 
@@ -135,7 +135,7 @@ Xtreme Bootstrap Admin Lite
 # Upgrade to Premium version
 
 <a target="_blank" href="https://www.wrappixel.com/templates/xtremeadmin/?ref=33">
-  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-bootstrap-admin-y.jpg" alt="">
+  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/xtreme-bootstrap-admin-wpn.jpg" alt="">
 </a>
 <p>
   Checkout our premium version of Xtreme Bootstrap Dashboard Template for lots more features and ready to use page templates.<br>
@@ -157,7 +157,7 @@ Xtreme Bootstrap Admin Lite
 <tr>
 <td>
   <a href="https://www.wrappixel.com/templates/xtremeadmin/" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-bootstrap-admin-y.jpg" alt="" style="max-width:150px;">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/xtreme-bootstrap-admin-wpn.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
 <td>
