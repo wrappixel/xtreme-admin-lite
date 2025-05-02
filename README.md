@@ -184,16 +184,6 @@ Xtreme Bootstrap Admin Lite
 
 
 
-
-<!-- Useful Links of Template -->
-# Useful Links
-- <p><a href="https://www.wrappixel.com/">Admin Theme</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/materialpro/">Bootstrap Themes</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/materialpro-lite/">Free Bootstrap Admin Templates</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/materialpro-react-redux-admin/">React Bootstrap Template</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/materialpro-vuetify-admin/">Vuejs Templates</a> from Wrappixel</p>
-
-
 <!-- Licensing of Template -->
 # Licensing
 - <p>Copyright 2024 Wrappixel <a href="https://www.wrappixel.com/">https://wrappixel.com/</a></p>
